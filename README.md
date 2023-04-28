@@ -19,11 +19,17 @@ Users can view detailed information about each country.
 Users can see neighboring countries for each country.
 Users can view the flag, population, languages spoken, and other information about each country.
 Technologies Used
+
 React: A JavaScript library for building user interfaces.
+
 NodeJS: An open-source, cross-platform, back-end JavaScript runtime environment.
+
 Express: A fast, unopinionated, minimalist web framework for Node.js.
+
 REST Countries API: A public API that provides information about countries.
+
 Axios: A promise-based HTTP client for the browser and Node.js.
+
 Bootstrap: A popular front-end component library.
 
 Installation
