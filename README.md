@@ -30,14 +30,18 @@ Installation
 To install the project, follow these steps:
 
 1-Clone the repository to your local machine.
+
 2-Install the dependencies by running npm install in both the client and server directories.
+
 3-Rename the .env.example file in the server directory to .env and add your own API key for the REST Countries API.
 
 Usage
 To start the application, follow these steps:
 
 1-In the server directory, run npm start to start the backend server.
+
 2-In the client directory, run npm start to start the React frontend.
+
 3-Open http://localhost:3000 in your browser to view the application.
 
 Credits
